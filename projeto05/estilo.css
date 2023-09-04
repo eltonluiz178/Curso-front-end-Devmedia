@@ -1,0 +1,35 @@
+div {
+    font-family: Verdana;
+    text-align: center;
+    border-bottom: 1px solid #aeacac37;
+    padding-bottom: 50px;
+}
+
+img {
+    width: 170px;
+    margin: 15px;
+}
+
+p {
+    margin: 50px auto;
+    width: 950px;
+}
+
+h3 {
+    font-size: 21px;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    background-color: #0dad12;
+    text-decoration: none;
+    border-radius: 18px;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 16px;
+}
